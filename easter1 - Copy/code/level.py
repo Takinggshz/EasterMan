@@ -5,7 +5,6 @@ from blocks import Tile,Statictile
 from settings import tilesize
 from player import Player
 
-
 class Level:
     def __init__(self,map_data,surface):
         
