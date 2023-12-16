@@ -1,0 +1,5 @@
+just run the, goddang python 
+fileleft arrow = left
+right arrow = right
+up arrow key =shoot
+use headphones
